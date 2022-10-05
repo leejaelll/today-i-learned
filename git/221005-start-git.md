@@ -3,9 +3,16 @@
 ## Before start, set configuration
 
 $ git config --global user.name "유저네임"
+
+
 $ git config --global user.email "이메일 주소"
+
+
 $ git config --global core.editor "vim" - editor를 vim으로 설정
+
+
 $ git config --global core.pager "cat"
+
 
 ## Create new repo
 
